@@ -1,7 +1,7 @@
 import Header from './components/layouts/Header.vue';
 import Footer from './components/layouts/Footer.vue';
-import Home from './components/pages/Home.vue';
-import Portfolio from './components/pages/Portfolio.vue';
+import Home from './components/pages/home/Home.vue';
+import Portfolio from './components/pages/portfolio/Portfolio.vue';
 
 export const routes = [
     {
