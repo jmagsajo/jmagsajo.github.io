@@ -1,7 +1,7 @@
 <template>
     
     <!--Navbar-->
-    <nav class="navbar navbar-expand-lg navbar-dark primary-color">
+    <nav class="navbar navbar-expand-lg navbar-dark default-color">
         <div class="container">
             <!-- Navbar brand -->
             <a class="navbar-brand" href="https://jmagsajo.github.io/">Joseph</a>
