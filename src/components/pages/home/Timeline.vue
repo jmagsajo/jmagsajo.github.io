@@ -105,7 +105,7 @@
 									<h4 class="subheading">Yondu, Inc.</h4>
 								</div>
 								<div class="timeline-body">
-									<p class="text-muted">I missed my family, so i returned to manila and luckily the door is still open for me!</p>
+									<p class="text-muted">I missed my family in manila, so i returned to manila and luckily the door is still open for me!</p>
 								</div>
 							</div>
 						</li>
