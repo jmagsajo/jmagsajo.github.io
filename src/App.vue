@@ -1,12 +1,8 @@
 <template>
-    <div>
-        <router-view name="header"></router-view>
-        <div class="container">
-            <div class="row">
-                <router-view></router-view>
-            </div>
-        </div>
-        <router-view name="footer"></router-view>
+    <div id="wrapper">
+        <router-view name="app-header"></router-view>
+        <router-view></router-view>
+        <router-view name="app-footer"></router-view>
     </div>
 </template>
 
@@ -17,5 +13,10 @@ export default {
 </script>
 
 <style lang="scss">
-
+    html, body, #wrapper{
+        /*height: 100% !important;*/
+    }
+    .h-100{
+        /*height: 100% !important;*/
+    }
 </style>

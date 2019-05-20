@@ -10,8 +10,8 @@ export const routes = [
         name: 'home', 
         components: {
             default: Home,
-            'header': Header,
-            'footer': Footer
+            'app-header': Header,
+            'app-footer': Footer
         }
     },
     {
@@ -19,8 +19,8 @@ export const routes = [
         name: 'portfolio', 
         components: {
             default: Portfolio,
-            'header': Header,
-            'footer': Footer
+            'app-header': Header,
+            'app-footer': Footer
         }
     },
     {
@@ -28,8 +28,8 @@ export const routes = [
         name: 'contact', 
         components: {
             default: Contact,
-            'header': Header,
-            'footer': Footer
+            'app-header': Header,
+            'app-footer': Footer
         }
     },
     {path: '*', redirect: '/'}
