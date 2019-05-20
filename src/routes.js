@@ -2,6 +2,7 @@ import Header from './components/layouts/Header.vue';
 import Footer from './components/layouts/Footer.vue';
 import Home from './components/pages/home/Home.vue';
 import Portfolio from './components/pages/portfolio/Portfolio.vue';
+import Contact from './components/pages/contact/Contact.vue';
 
 export const routes = [
     {
@@ -18,6 +19,15 @@ export const routes = [
         name: 'portfolio', 
         components: {
             default: Portfolio,
+            'header': Header,
+            'footer': Footer
+        }
+    },
+    {
+        path: '/contact', 
+        name: 'contact', 
+        components: {
+            default: Contact,
             'header': Header,
             'footer': Footer
         }

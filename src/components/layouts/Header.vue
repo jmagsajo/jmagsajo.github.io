@@ -24,6 +24,10 @@
                     <router-link to="/portfolio" tag="li" class="nav-item ripple-parent" active-class="active">
                         <a class="nav-link navbar-link">Porfolio</a>
                     </router-link>
+
+                    <router-link to="/contact" tag="li" class="nav-item ripple-parent" active-class="active">
+                        <a class="nav-link navbar-link">Contact</a>
+                    </router-link>
                 </ul>
                 <!-- Links -->
             </div>
