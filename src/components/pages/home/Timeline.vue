@@ -13,7 +13,7 @@
 					<ul class="timeline">
 						<li>
 							<div class="timeline-image">
-								<img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+								<img class="rounded-circle img-fluid" src="img/assets/jru_logo.png" alt="">
 							</div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
@@ -26,8 +26,8 @@
 							</div>
 						</li>
 						<li class="timeline-inverted">
-							<div class="timeline-image">
-								<img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+							<div class="timeline-image bg-color-white">
+								<img class="rounded-circle img-fluid" src="img/assets/now-corp.png" alt="">
 							</div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
@@ -41,7 +41,7 @@
 						</li>
 						<li>
 							<div class="timeline-image">
-								<img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+								<img class="rounded-circle img-fluid" src="img/assets/lifedata.jpg" alt="">
 							</div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
@@ -55,23 +55,66 @@
 						</li>
 						<li class="timeline-inverted">
 							<div class="timeline-image">
-								<img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+								<img class="rounded-circle img-fluid" src="img/assets/info-alchemy.jpg" alt="">
 							</div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4>July 2014</h4>
+									<h4>March 2014 - September 2016</h4>
 									<h4 class="subheading">Info Alchemy Corporation</h4>
 								</div>
 								<div class="timeline-body">
-									<p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+									<p class="text-muted">The third company that i joined, and worked with awesome people!</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="timeline-image bg-color-white">
+								<img class="rounded-circle img-fluid" src="img/assets/yondu-inc.jpg" alt="">
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>September 2016 - June 2017</h4>
+									<h4 class="subheading">Yondu, Inc.</h4>
+								</div>
+								<div class="timeline-body">
+									<p class="text-muted">I wanted to get out with my comfort zone and decided to join this company, and luckily I learned a lot!</p>
 								</div>
 							</div>
 						</li>
 						<li class="timeline-inverted">
 							<div class="timeline-image">
-								<h4>Be Part
-								<br>Of Our
-								<br>Story!</h4>
+								<img class="rounded-circle img-fluid" src="img/assets/cloudstaff.jpg" alt="">
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>June 2017 - October 2018</h4>
+									<h4 class="subheading">cloudstaff philippines inc.</h4>
+								</div>
+								<div class="timeline-body">
+									<p class="text-muted">I wanted to experience to work with a foreigner, so i decided to move in pampanga and it's fun to work with them!</p>
+								</div>
+							</div>
+						</li>
+						<li>
+							<div class="timeline-image bg-color-white">
+								<img class="rounded-circle img-fluid" src="img/assets/yondu-inc.jpg" alt="">
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>PRESENT</h4>
+									<h4 class="subheading">Yondu, Inc.</h4>
+								</div>
+								<div class="timeline-body">
+									<p class="text-muted">I missed my family, so i returned to manila and luckily the door is still open for me!</p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted">
+							<div class="timeline-image bg-color-default">
+								<h4>
+									Let's Talk!
+									<br>I am open to opportunities!
+								</h4>
 							</div>
 						</li>
 					</ul>
@@ -91,5 +134,13 @@ export default {
 	
 	@import "~styles/variables";
 	@import "~styles/timeline";
+
+	.bg-color-white{
+		background-color: #fff !important;
+	}
+
+	.bg-color-default{
+		background-color: #2bbbad !important;
+	}
 
 </style>
