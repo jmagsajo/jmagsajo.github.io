@@ -1,6 +1,6 @@
 <template>
     <!-- About -->
-	<section class="page-section" id="about">
+	<div class="page-section" id="about">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 text-center">
@@ -121,7 +121,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</div>
 </template>
 
 <script>

@@ -1,6 +1,6 @@
 <template>
-    <section class="h-100">
-    	<div class="container-fluid banner h-150">
+     <renderless-parent>
+    	<div class="container-fluid banner">
 			<!-- <div class="row"> -->
 
 				
@@ -8,7 +8,7 @@
 			<!-- </div> -->
 		</div>
     	<timeline></timeline>
-	</section>
+	 </renderless-parent>
 </template>
 
 <script>
@@ -24,15 +24,13 @@ export default {
 </script>
 
 <style>
-	.h-150{
-	    /*height: 150% !important;*/
-	}
 	.banner {
-	    /* background: url(/img/assets/background.jpg);
+	    /*background: url(/img/assets/background.jpg);*/
+	    background: linear-gradient( rgba(35, 35, 90, 0.45), rgba(40, 0, 0, 0.45) ),url(/img/assets/background.jpg);
 	    background-attachment: fixed;
 	    background-repeat: no-repeat;
 	    background-size: cover;
 	    color: #fff;
-	    height: 100%;  */
+	    height: 80% !important; 
 	}
 </style>

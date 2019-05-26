@@ -13,10 +13,19 @@ export default {
 </script>
 
 <style lang="scss">
-    html, body, #wrapper{
-        /*height: 100% !important;*/
+    html, body{
+        /*margin:0;
+        padding:0;*/
+        height:100% !important;
+    }
+    #wrapper{
+        height:100% !important;
+        /*position:relative;*/
     }
     .h-100{
-        /*height: 100% !important;*/
+        height: 100% !important;
+    }
+    .h-150{
+        height: 150% !important;
     }
 </style>
