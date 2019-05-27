@@ -3,7 +3,7 @@
     	<div class="container-fluid banner">
 			<div class="banner-text">
 				<p>In the end, it's not the years in your life that count.</p>
-				<p>It's the life in your years.</p>
+				<p>It's the life in your years. -Abraham Lincoln</p>
 			</div>
 		</div>
     	<timeline></timeline>
