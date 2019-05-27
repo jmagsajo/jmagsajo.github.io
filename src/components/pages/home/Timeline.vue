@@ -126,7 +126,10 @@
 
 <script>
 export default {
-    name: 'home'
+    name: 'timeline',
+    mounted(){
+    	ScrollReveal().reveal('.timeline-image', { interval: 200 });
+    }
 }
 </script>
 
@@ -141,6 +144,10 @@ export default {
 
 	.bg-color-default{
 		background-color: #2bbbad !important;
+	}
+
+	#about{
+		margin-top: 20px;
 	}
 
 </style>

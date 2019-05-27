@@ -14,12 +14,14 @@
 <script>
 
 import timeline from './Timeline';
+import { renderless } from '../../Renderless.js';
 
 export default {
     name: 'home',
     components : {
     	timeline,
-    },
+    	'renderless-parent' : renderless,
+    }
 }
 </script>
 
