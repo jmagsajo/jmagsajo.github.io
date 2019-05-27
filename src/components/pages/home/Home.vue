@@ -1,26 +1,23 @@
 <template>
-     <renderless-parent>
+     <span>
     	<div class="container-fluid banner">
-			<!-- <div class="row"> -->
-
-				
-
-			<!-- </div> -->
+			<div class="banner-text">
+				<p>In the end, it's not the years in your life that count.</p>
+				<p>It's the life in your years.</p>
+			</div>
 		</div>
     	<timeline></timeline>
-	 </renderless-parent>
+	 </span>
 </template>
 
 <script>
 
 import timeline from './Timeline';
-import { renderless } from '../../Renderless.js';
 
 export default {
     name: 'home',
     components : {
-    	timeline,
-    	'renderless-parent' : renderless,
+    	timeline
     }
 }
 </script>
@@ -35,4 +32,13 @@ export default {
 	    color: #fff;
 	    height: 80% !important; 
 	}
+	.banner-text{
+		text-align:center;
+	    position: relative;
+    	top: 30%;
+	}
+		.banner-text p{
+		    font-family: 'Pacifico', regular, 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+		    font-size: 260%;
+		}
 </style>
