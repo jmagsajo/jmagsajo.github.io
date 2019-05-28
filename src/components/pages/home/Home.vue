@@ -41,4 +41,32 @@ export default {
 		    font-family: 'Pacifico', regular, 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 		    font-size: 260%;
 		}
+
+	@media (max-width: 576px) {
+		.banner-text p{
+		    font-size: 25px;
+		}
+	}
+	
+	@media (min-width: 577px){
+		.banner-text p{
+			font-size: 30px;
+		}
+	}
+
+	@media (max-width: 933px) {
+		.banner-text p{
+			font-size: 30px;
+		}
+	}
+
+	@media (min-width: 934px) {
+		.banner-text p{
+			font-size: 260%;
+		}
+	}
+
+	@media (min-width: 1200px) {
+		
+	}
 </style>

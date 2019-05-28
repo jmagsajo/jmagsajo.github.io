@@ -60,9 +60,13 @@ export default {
 
 <style>
     .navbar-brand {
-      color: #2d3436 !important;
+      /*color: #2d3436 !important;*/
       font-family: 'Kaushan Script', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-      font-size: 45px;
+      font-size: 30px;
+    }
+    .navbar-top .navbar-brand {
+        font-size: 45px;
+        color: #fff !important;
     }
     .navbar.navbar-top{
         background: rgba(0, 0, 0, 0) !important;
