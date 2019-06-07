@@ -18,7 +18,10 @@ export default {
     name: 'home',
     components : {
     	timeline
-    }
+    },
+	mounted(){
+		ScrollReveal().reveal('.banner-text', { interval: 200 });
+	}
 }
 </script>
 

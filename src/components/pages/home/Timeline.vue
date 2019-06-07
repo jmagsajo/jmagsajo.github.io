@@ -11,7 +11,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<ul class="timeline">
-						<li>
+						<li class="normal">
 							<div class="timeline-image">
 								<img class="rounded-circle img-fluid" src="img/assets/jru_logo.png" alt="">
 							</div>
@@ -39,7 +39,7 @@
 								</div>
 							</div>
 						</li>
-						<li>
+						<li class="normal">
 							<div class="timeline-image">
 								<img class="rounded-circle img-fluid" src="img/assets/lifedata.jpg" alt="">
 							</div>
@@ -67,7 +67,7 @@
 								</div>
 							</div>
 						</li>
-						<li>
+						<li class="normal">
 							<div class="timeline-image bg-color-white">
 								<img class="rounded-circle img-fluid" src="img/assets/yondu-inc.jpg" alt="">
 							</div>
@@ -95,7 +95,7 @@
 								</div>
 							</div>
 						</li>
-						<li>
+						<li class="normal">
 							<div class="timeline-image bg-color-white">
 								<img class="rounded-circle img-fluid" src="img/assets/yondu-inc.jpg" alt="">
 							</div>
@@ -129,6 +129,21 @@ export default {
     name: 'timeline',
     mounted(){
     	ScrollReveal().reveal('.timeline-image', { interval: 200 });
+
+    	var slideRight = {
+		    distance: '150%',
+		    origin: 'left',
+		    opacity: null
+		};
+
+		var slideLeft = {
+		    distance: '150%',
+		    origin: 'right',
+		    opacity: null
+		};
+
+		ScrollReveal().reveal('.timeline-inverted .timeline-panel', slideLeft);
+		ScrollReveal().reveal('.normal .timeline-panel', slideRight);
     }
 }
 </script>
