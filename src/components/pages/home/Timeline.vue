@@ -163,6 +163,7 @@ export default {
 
 	#about{
 		margin-top: 20px;
+		overflow: hidden;
 	}
 
 </style>
