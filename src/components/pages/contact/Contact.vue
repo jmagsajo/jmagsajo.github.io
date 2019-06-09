@@ -20,7 +20,7 @@
 						<a href="https://www.linkedin.com/in/joseph-magsajo-a239a442/" target="-blank" class="text-info pb-2 pt-1"><i class="fab fa-linkedin"></i></a>
 						<a href="https://www.instagram.com/phesoj03/" target="-blank" class="text-info pb-2 pt-1"><i class="fab fa-instagram"></i></a>
 					</p>
-				  	<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+				  	<!-- <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a> -->
 				</div>
 			</div>
 		</div>
