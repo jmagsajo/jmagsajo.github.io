@@ -82,7 +82,7 @@
 					  <div class="card-body card-body-cascade">
 
 					    <!-- Label -->
-					    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Open Source</h5>
+					    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-window-restore"></i> Open Source</h5>
 					    <!-- Title -->
 					    <h4 class="font-weight-bold card-title">Hackers Theme based html template</h4>
 					    <!-- Text -->
