@@ -42,6 +42,9 @@
 						<li><a href="https://vuejs.org/" target="_blank">vuejs</a></li>
 						<li><a href="https://vuex.vuejs.org/" target="_blank">vuex</a></li>
 						<li><a href="https://router.vuejs.org/guide/essentials/history-mode.html#example-server-configurations" target="_blank">HTML5 History Mode</a></li>
+						<li>
+							<a href="https://vuejsdevelopers.com/2017/07/03/vue-js-code-splitting-webpack/?fbclid=IwAR13D3lLvIRaRJzwZl9VYrr4ThL5ssfzXkj5c5mFEFaZUI5Wgo3i77gM3MU" target="_blank">Code Splitting With Vue.js And Webpack</a>
+						</li>
 					</ul>
 				</div>
 
