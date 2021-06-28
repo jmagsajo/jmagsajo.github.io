@@ -1,6 +1,7 @@
 # vue-portfolio
 
 > A Vue.js project
+> Nodejs version required 8.9.x
 
 ## Build Setup
 
