@@ -92,7 +92,41 @@
 							You can download it <a href="https://github.com/jmagsajo/Hackers-Theme-Sample" target="_blank">here!</a>
 					    </p>
 					    <!-- Button -->
-					    <a href="http://josephmagsajo.atwebpages.com/sample/sample1/index.html" target="_blank" class="btn btn-unique">Go to site</a>
+					    <!-- <a href="http://josephmagsajo.atwebpages.com/sample/sample1/index.html" target="_blank" class="btn btn-unique">Go to site</a> -->
+
+					  </div>
+
+					</div>
+					<!-- Card Narrower -->
+				</div>
+
+				<div class="col-sm projects">
+					<!-- Card Narrower -->
+					<div class="card card-cascade narrower">
+
+					  <!-- Card image -->
+					  <div class="view view-cascade overlay">
+					    <img  class="card-img-top" src="/img/sample/sample2.jpg" alt="Sample 1">
+					    <a>
+					      <div class="mask rgba-white-slight waves-effect waves-light"></div>
+					    </a>
+					  </div>
+
+					  <!-- Card content -->
+					  <div class="card-body card-body-cascade">
+
+					    <!-- Label -->
+					    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-window-restore"></i> Open Source</h5>
+					    <!-- Title -->
+					    <h4 class="font-weight-bold card-title">Simple Chat Application</h4>
+					    <!-- Text -->
+					    <p class="card-text">
+					    	An Open source simple chat application.
+							<br>
+							You can download it <a href="https://github.com/jmagsajo/chat-app-example" target="_blank">here!</a>
+					    </p>
+					    <!-- Button -->
+					    <a href="https://magsajo-simple-chat-app.herokuapp.com/" target="_blank" class="btn btn-unique">Go to site</a>
 
 					  </div>
 
