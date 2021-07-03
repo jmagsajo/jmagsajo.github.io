@@ -16,7 +16,7 @@
 						Email me @ <b>joseph.magsajo03@gmail.com</b>
 					</p>
 					<p class="social-icons">
-						<a href="https://www.facebook.com/hatred.03" target="-blank" class="text-info pb-2 pt-1"><i class="fab fa-facebook-square"></i></a>
+						<a href="https://www.facebook.com/jmagsajo" target="-blank" class="text-info pb-2 pt-1"><i class="fab fa-facebook-square"></i></a>
 						<a href="https://www.linkedin.com/in/joseph-magsajo-a239a442/" target="-blank" class="text-info pb-2 pt-1"><i class="fab fa-linkedin"></i></a>
 						<a href="https://www.instagram.com/phesoj03/" target="-blank" class="text-info pb-2 pt-1"><i class="fab fa-instagram"></i></a>
 					</p>
