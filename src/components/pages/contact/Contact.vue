@@ -42,7 +42,8 @@ export default {
 	    background: linear-gradient( rgba(35, 35, 90, 0.45), rgba(40, 0, 0, 0.45) ),url(/img/assets/background3.jpg);
 	    background-attachment: fixed;
 	    background-repeat: no-repeat;
-	    background-size: cover;
+	    /* background-size: cover; */
+		background-size: 100% 100%;
 	    color: #fff;
 	    height: 80% !important; 
 	}
