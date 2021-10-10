@@ -7,7 +7,7 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm projects">
+				<div class="col-sm-4 projects">
 					<!-- Card Narrower -->
 					<div class="card card-cascade narrower">
 
@@ -40,7 +40,7 @@
 					</div>
 					<!-- Card Narrower -->
 				</div>
-				<div class="col-sm projects">
+				<div class="col-sm-4 projects">
 					<!-- Card Narrower -->
 					<div class="card card-cascade narrower">
 
@@ -74,7 +74,7 @@
 					<!-- Card Narrower -->
 				</div>
 
-				<div class="col-sm projects">
+				<div class="col-sm-4 projects">
 					<!-- Card Narrower -->
 					<div class="card card-cascade narrower">
 
@@ -108,7 +108,7 @@
 					<!-- Card Narrower -->
 				</div>
 
-				<div class="col-sm projects">
+				<div class="col-sm-4 projects">
 					<!-- Card Narrower -->
 					<div class="card card-cascade narrower">
 
@@ -142,7 +142,7 @@
 					<!-- Card Narrower -->
 				</div>
 
-				<div class="col-sm projects">
+				<div class="col-sm-4 projects">
 					<!-- Card Narrower -->
 					<div class="card card-cascade narrower">
 
