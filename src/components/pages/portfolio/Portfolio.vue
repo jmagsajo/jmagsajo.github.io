@@ -148,7 +148,7 @@
 
 					  <!-- Card image -->
 					  <div class="view view-cascade overlay">
-					    <img  class="card-img-top" src="/img/expresspay/expresspay.jpg" alt="expresspay">
+					    <img  class="card-img-top" src="/img/sample/expresspay.jpg" alt="expresspay">
 					    <a>
 					      <div class="mask rgba-white-slight waves-effect waves-light"></div>
 					    </a>
