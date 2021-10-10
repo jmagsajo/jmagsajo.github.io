@@ -27,7 +27,11 @@
 					    <!-- Title -->
 					    <h4 class="font-weight-bold card-title">GMovies</h4>
 					    <!-- Text -->
-					    <p class="card-text">GMovies is a FREE app for both for Android and iOS devices, GMovies mobile app features services that allow you to stay updated on the current and upcoming movie releases in cinemas nationwide, check daily showtimes, reserve the best seats and book your movie tickets straight on your phones.</p>
+					    <p class="card-text">
+							GMovies is a FREE app for both for Android and iOS devices, GMovies mobile app features services that allow you to stay updated on the current and upcoming movie releases in cinemas nationwide, check daily showtimes, reserve the best seats and book your movie tickets straight on your phones.
+							<br><br>
+							<b>Role:</b> Backend Developer
+						</p>
 					    <!-- Button -->
 					    <a href="https://www.gmovies.ph/" target="_blank" class="btn btn-unique">Go to site</a>
 
@@ -56,7 +60,11 @@
 					    <!-- Title -->
 					    <h4 class="font-weight-bold card-title">Sureseats</h4>
 					    <!-- Text -->
-					    <p class="card-text">Online Reservation for Ayala Malls</p>
+					    <p class="card-text">
+							Online Reservation for Ayala Malls
+							<br><br>
+							<b>Role:</b> Backend Developer
+						</p>
 					    <!-- Button -->
 					    <a href="https://www.sureseats.com/" target="_blank" class="btn btn-unique">Go to site</a>
 
@@ -127,6 +135,40 @@
 					    </p>
 					    <!-- Button -->
 					    <a href="https://magsajo-simple-chat-app.herokuapp.com/" target="_blank" class="btn btn-unique">Go to site</a>
+
+					  </div>
+
+					</div>
+					<!-- Card Narrower -->
+				</div>
+
+				<div class="col-sm projects">
+					<!-- Card Narrower -->
+					<div class="card card-cascade narrower">
+
+					  <!-- Card image -->
+					  <div class="view view-cascade overlay">
+					    <img  class="card-img-top" src="/img/expresspay/expresspay.jpg" alt="expresspay">
+					    <a>
+					      <div class="mask rgba-white-slight waves-effect waves-light"></div>
+					    </a>
+					  </div>
+
+					  <!-- Card content -->
+					  <div class="card-body card-body-cascade">
+
+					    <!-- Label -->
+					    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-window-restore"></i> Web project</h5>
+					    <!-- Title -->
+					    <h4 class="font-weight-bold card-title">Expresspayinc</h4>
+					    <!-- Text -->
+					    <p class="card-text">
+					    	The Company operates as a financial services aggregator which provides a menu of financial services in collaboration with its Business Partners through its nationwide Franchise Network.
+							<br><br>
+							<b>Role:</b> Wordpress plugin developer
+					    </p>
+					    <!-- Button -->
+					    <a href="https://expresspayinc.com/" target="_blank" class="btn btn-unique">Go to site</a>
 
 					  </div>
 
