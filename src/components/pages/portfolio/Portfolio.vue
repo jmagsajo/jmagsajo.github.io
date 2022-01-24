@@ -176,6 +176,38 @@
 					<!-- Card Narrower -->
 				</div>
 
+				<div class="col-sm-4 projects">
+					<!-- Card Narrower -->
+					<div class="card card-cascade narrower">
+
+					  <!-- Card image -->
+					  <div class="view view-cascade overlay">
+					    <img  class="card-img-top" src="/img/sample/japan-weather-app.jpg" alt="japan-weather-app">
+					    <a>
+					      <div class="mask rgba-white-slight waves-effect waves-light"></div>
+					    </a>
+					  </div>
+
+					  <!-- Card content -->
+					  <div class="card-body card-body-cascade">
+
+					    <!-- Label -->
+					    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-window-restore"></i> Open Source</h5>
+					    <!-- Title -->
+					    <h4 class="font-weight-bold card-title">Japan Weather App</h4>
+					    <!-- Text -->
+					    <p class="card-text">
+					    	An Open source simple japan weather application.
+							<br>
+							You can download it <a href="https://github.com/jmagsajo/simple-japan-weather-app" target="_blank">here!</a>
+					    </p>
+
+					  </div>
+
+					</div>
+					<!-- Card Narrower -->
+				</div>
+
 			</div>
 		</div>
 	</span>
