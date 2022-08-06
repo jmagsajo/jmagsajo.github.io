@@ -110,12 +110,26 @@
 							</div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h4>PRESENT</h4>
+									<h4>October 2018 - June 2022</h4>
 									<h4 class="subheading">Yondu, Inc.</h4>
 								</div>
 								<div class="timeline-body">
 									<!-- <p class="text-muted">I missed my family in manila, so i returned to manila and luckily the door is still open for me!</p> -->
 									<p class="text-muted">Role: <b>Sr. Software Engineer</b></p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted">
+							<div class="timeline-image bg-color-white">
+								<img class="rounded-circle img-fluid" src="img/assets/somg.jpg" alt="">
+							</div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h4>PRESENT</h4>
+									<h4 class="subheading">Sweet Onion Media Group</h4>
+								</div>
+								<div class="timeline-body">
+									<p class="text-muted">Role: <b>Sr. Software Developer</b></p>
 								</div>
 							</div>
 						</li>
